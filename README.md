@@ -1,6 +1,6 @@
 ![Build Status](https://github.com/kewiany/kewiany-python/workflows/kewiany-python/badge.svg)
 [![CodeFactor](https://www.codefactor.io/repository/github/kewiany/kewiany-python/badge)](https://www.codefactor.io/repository/github/kewiany/kewiany-python)
-
+[![codecov](https://codecov.io/gh/kewiany/kewiany-python/branch/master/graph/badge.svg)](https://codecov.io/gh/kewiany/kewiany-python)
 
 # 📝 kewiany-python
 
