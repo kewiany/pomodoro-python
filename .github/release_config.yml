@@ -1,0 +1,24 @@
+name-template: 'v$NEXT_PATCH_VERSION'
+tag-template: 'v$NEXT_PATCH_VERSION'
+template: |
+  # What's Changed
+  $CHANGES
+categories:
+  - title: ':boom: Breaking Changes'
+    label: 'breaking'
+  - title: ':package: Build System'
+    label: 'build'
+  - title: ':books: Documentation'
+    label: 'documentation'
+  - title: ':rocket: Features'
+    label: 'enhancement'
+  - title: ':beetle: Fixes'
+    label: 'bug'
+  - title: ':racehorse: Performance'
+    label: 'performance'
+  - title: ':hammer: Refactoring'
+    label: 'refactoring'
+  - title: ':lipstick: Style'
+    label: 'style'
+  - title: ':rotating_light: Testing'
+    label: 'testing'
