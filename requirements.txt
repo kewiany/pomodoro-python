@@ -1,3 +1,4 @@
+attrs==19.3.0
 bleach==3.1.5
 bump2version==1.0.0
 bumpversion==0.5.3
@@ -17,10 +18,14 @@ itsdangerous==1.1.0
 Jinja2==2.11.2
 keyring==21.2.1
 MarkupSafe==1.1.1
+more-itertools==8.2.0
 packaging==20.3
 pkginfo==1.5.0.1
+pluggy==0.13.1
+py==1.8.1
 Pygments==2.6.1
 pyparsing==2.4.7
+pytest==5.4.2
 python-gitlab==1.15.0
 python-semantic-release==6.3.1
 readme-renderer==26.0
@@ -33,6 +38,7 @@ toml==0.10.0
 tqdm==4.46.0
 twine==3.1.1
 urllib3==1.25.9
+wcwidth==0.1.9
 webencodings==0.5.1
 Werkzeug==1.0.1
 zipp==3.1.0
