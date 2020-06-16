@@ -7,6 +7,10 @@ class BaseConfig(object):
     PROJECT_ROOT = os.path.abspath(os.path.join(APP_DIR, os.pardir))
 
 
+class ProductionConfig(BaseConfig):
+    ENV = 'production'
+
+
 class DevelopmentConfig(BaseConfig):
     ENV = 'dev'
     DEBUG = True
@@ -19,6 +23,7 @@ class TestingConfig(BaseConfig):
 
 
 app_config = {
+    'production': ProductionConfig,
     'development': DevelopmentConfig,
     'testing': TestingConfig
 }
