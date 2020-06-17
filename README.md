@@ -1,8 +1,7 @@
-![Build Status](https://github.com/kewiany/kewiany-python/workflows/kewiany-python/badge.svg)
-[![CodeFactor](https://www.codefactor.io/repository/github/kewiany/kewiany-python/badge)](https://www.codefactor.io/repository/github/kewiany/kewiany-python)
-[![codecov](https://codecov.io/gh/kewiany/kewiany-python/branch/master/graph/badge.svg)](https://codecov.io/gh/kewiany/kewiany-python)
-
-# 📝 kewiany-python
+![Build Status](https://github.com/kewiany/pomodoro-python/workflows/pomodoro-python%20CI/badge.svg)
+[![CodeFactor](https://www.codefactor.io/repository/github/kewiany/pomodoro-python/badge)](https://www.codefactor.io/repository/github/kewiany/pomodoro-python)
+[![codecov](https://codecov.io/gh/kewiany/pomodoro-python/branch/master/graph/badge.svg)](https://codecov.io/gh/kewiany/pomodoro-python)
+# 📝 pomodoro-python
 
 ## 🛠 Tech stack
 
