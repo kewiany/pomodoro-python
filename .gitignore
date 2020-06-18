@@ -5,3 +5,6 @@ __pycache__
 Dockerfile
 Dockerfile.prod
 docker-compose.yml
+codecov.yml
+coverage.xml
+.coverage
