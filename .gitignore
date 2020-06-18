@@ -2,8 +2,6 @@ venv
 .idea
 __pycache__
 .bash
-Dockerfile
-Dockerfile.prod
 docker-compose.yml
 codecov.yml
 coverage.xml
